@@ -1,0 +1,6 @@
+[submodule "deps/ucx"]
+	path = deps/ucx
+	url = https://github.com/openucx/ucx.git
+[submodule "deps/ThreadPool"]
+	path = deps/ThreadPool
+	url = https://github.com/log4cplus/ThreadPool.git
